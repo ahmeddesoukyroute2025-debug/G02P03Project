@@ -5,19 +5,8 @@
 using namespace std;
 int main()
 {
-	for (int i = 1; i <= 10; i++) {
-		cout << i << " ";
-	}
 	cout << "Hamada";
-	cout << "Shabaan";
-	double x = 10.2;
-	x /= 2;
-	cout << x << " ";
-	int y;
-	int z;
-	cin >> y >> z;
-	int sum = y + z;
-	cout << sum;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
