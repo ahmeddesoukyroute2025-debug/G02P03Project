@@ -8,6 +8,11 @@ int main()
 	for (int i = 1; i <= 10; i++) {
 		cout << i << " ";
 	}
+	cout << "Hamada";
+	cout << "Shabaan";
+	double x = 10.2;
+	x /= 2;
+	cout << x << " ";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
