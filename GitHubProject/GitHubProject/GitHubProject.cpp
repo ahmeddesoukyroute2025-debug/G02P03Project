@@ -2,10 +2,12 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+	for (int i = 1; i <= 10; i++) {
+		cout << i << " ";
+	}
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
